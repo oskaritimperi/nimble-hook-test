@@ -11,3 +11,5 @@ requires "nim >= 0.17.2"
 
 after install:
     echo("AFTER INSTALL")
+
+echo("hello!")
